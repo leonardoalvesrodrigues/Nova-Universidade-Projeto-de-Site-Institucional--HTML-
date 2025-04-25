@@ -9,7 +9,6 @@ O site contém as seguintes seções principais:
 - **Página inicial**: apresentação da universidade com logotipo e navegação.
 - **Quem Somos / Sobre**: textos institucionais descritivos.
 - **Formulário de Contato**: desenvolvido com a tag `<form>`, simulando o envio de informações do usuário.
-- **Tabela de Cursos**: lista organizada utilizando a tag `<table>`, demonstrando a oferta acadêmica da instituição.
 
 ## Tecnologias Utilizadas
 
